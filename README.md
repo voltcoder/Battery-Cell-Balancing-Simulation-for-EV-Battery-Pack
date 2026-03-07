@@ -17,8 +17,8 @@ __Why Cell Balancing is Important__
 
 Battery packs in Electric Vehicles contain many cells connected in series. Over time:
 
- *Some cells charge faster than others
- *Some cells discharge faster
- *Voltage differences appear between cells
+ Some cells charge faster than others
+ Some cells discharge faster
+ Voltage differences appear between cells
 
 lps maintain uniform voltage across all cells.
