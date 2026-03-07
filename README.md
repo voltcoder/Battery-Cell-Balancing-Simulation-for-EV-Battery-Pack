@@ -12,3 +12,13 @@ In a battery pack, multiple lithium-ion cells are connected in series. Due to ma
 This project simulates a passive cell balancing technique where higher-voltage cells are discharged until all cells reach the same voltage level.
 
 The goal of this project is to help beginners understand the basic concept of cell balancing in EV battery packs using a simple Python simulation.
+
+__Why Cell Balancing is Important__
+
+Battery packs in Electric Vehicles contain many cells connected in series. Over time:
+
+*Some cells charge faster than others
+*Some cells discharge faster
+*Voltage differences appear between cells
+
+lps maintain uniform voltage across all cells.
