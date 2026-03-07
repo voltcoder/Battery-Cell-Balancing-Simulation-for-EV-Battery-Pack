@@ -3,7 +3,7 @@ This project simulates a battery cell balancing system used in Electric Vehicle 
 
 # Battery Cell Balancing Simulation
 
-** Project Overview **
+__Project Overview__ 
 
 This project demonstrates a Battery Cell Balancing algorithm used in Battery Management Systems (BMS) for Electric Vehicles.
 
