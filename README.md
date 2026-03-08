@@ -17,15 +17,15 @@ __Why Cell Balancing is Important__
 
 Battery packs in Electric Vehicles contain many cells connected in series. Over time:
 
- Some cells charge faster than others
- Some cells discharge faster
- Voltage differences appear between cells
+*Some cells charge faster than others
+*Some cells discharge faster
+*Voltage differences appear between cells
 
 If this imbalance is not corrected, the battery pack may experience:
 
-Reduced battery capacity
-Overcharging of certain cells
-Reduced battery life
-Safety risks
+*Reduced battery capacity
+*Overcharging of certain cells
+*Reduced battery life
+*Safety risks
 
 Cell balancing helps maintain uniform voltage across all cells.
