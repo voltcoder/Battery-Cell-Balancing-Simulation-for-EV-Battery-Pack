@@ -13,6 +13,8 @@ This project simulates a passive cell balancing technique where higher-voltage c
 
 The goal of this project is to help beginners understand the basic concept of cell balancing in EV battery packs using a simple Python simulation.
 
+---
+
 __Why Cell Balancing is Important__
 
 Battery packs in Electric Vehicles contain many cells connected in series. Over time:
@@ -39,11 +41,13 @@ __Features__
 4.Displays cell voltages before and after balancing
 5.Beginner-friendly and easy to understand
 
+---
 __Technologies Used__
 
 1.Python
 2.Basic simulation logic
 
+---
 __Project Structure__
 
 Battery Cell Balancing Simulation
