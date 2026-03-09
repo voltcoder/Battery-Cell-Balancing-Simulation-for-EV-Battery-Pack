@@ -29,3 +29,17 @@ If this imbalance is not corrected, the battery pack may experience:
 *Safety risks
 
 Cell balancing helps maintain uniform voltage across all cells.
+
+---
+Features
+
+1.Simulates a multi-cell battery pack
+2.Detects voltage imbalance between cells
+3.Applies a simple passive balancing algorithm
+4.Displays cell voltages before and after balancing
+5.Beginner-friendly and easy to understand
+
+Technologies Used
+
+1.Python
+2.Basic simulation logic
