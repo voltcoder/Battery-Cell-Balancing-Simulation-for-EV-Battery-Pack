@@ -15,4 +15,17 @@ target_voltage = min(cells)
 
 print("\nTarget Voltage for Balancing:", target_voltage)
 
+# Passive balancing simulation
+balanced_cells = []
 
+for voltage in cells:
+    if voltage > target_voltage:
+        # discharge higher voltage cells
+        voltage = target_voltage
+    balanced_cells.append(voltage)
+
+print("\nBalanced Cell Voltages:")
+for i, v in enumerate(balanced_cells):
+    print(f"Cell {i+1}: {v} V")
+
+print("\nCell balancing completed.")
