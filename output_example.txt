@@ -1,1 +1,7 @@
-
+Initial Cell Voltages
+Cell 1: 4.12 V
+Cell 2: 3.98 V
+Cell 3: 4.05 V
+Cell 4: 3.91 V
+Cell 5: 4.18 V
+Cell 6: 3.95 V
