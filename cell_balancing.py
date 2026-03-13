@@ -12,7 +12,6 @@ for i, v in enumerate(cells):
 
 # Target voltage (minimum cell voltage)
 target_voltage = min(cells)
-
 print("\nTarget Voltage for Balancing:", target_voltage)
 
 # Passive balancing simulation
