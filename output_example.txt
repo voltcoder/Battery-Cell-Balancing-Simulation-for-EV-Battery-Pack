@@ -8,3 +8,10 @@ Cell 6: 3.95 V
 
 Target Voltage: 3.91 V
 
+Balanced Cell Voltages
+Cell 1: 3.91 V
+Cell 2: 3.91 V
+Cell 3: 3.91 V
+Cell 4: 3.91 V
+Cell 5: 3.91 V
+Cell 6: 3.91 V
