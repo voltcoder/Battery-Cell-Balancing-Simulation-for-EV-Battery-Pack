@@ -56,3 +56,11 @@ Battery Cell Balancing Simulation
   output_example.txt
 
 __How the Algorithm Works__
+
+1.A battery pack with multiple cells is simulated.
+2.Each cell is assigned a random voltage value.
+3.The system finds the lowest cell voltage in the pack.
+4.Cells with higher voltage are discharged to match the lowest voltage.
+5.The final balanced voltages are displayed.
+
+This represents a simplified passive balancing method used in Battery Management Systems.
