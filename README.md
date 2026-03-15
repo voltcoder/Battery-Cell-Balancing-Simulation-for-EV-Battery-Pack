@@ -64,3 +64,12 @@ __How the Algorithm Works__
 5.The final balanced voltages are displayed.
 
 This represents a simplified passive balancing method used in Battery Management Systems.
+
+__Applications__
+
+This concept is widely used in:
+
+*Electric Vehicle Battery Management Systems
+*Energy Storage Systems
+*Lithium-ion battery packs
+*Renewable energy storage
